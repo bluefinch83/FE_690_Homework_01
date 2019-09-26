@@ -16,6 +16,8 @@ from KMeans.
 - The part of the assignment should be submitted as a
 Jupyter Notebook.
 
+-Will: This part should be in the "main.py" file.
+
 #### Part 02:
 - Create a Flask service which has the following endpoints:
     - `/heartbeat`
@@ -44,3 +46,5 @@ and run with the command:
 `docker run -p 8000:8000 gengler1123/homework01:latest`
 
 Which will run an container of the Docker image which can communicate via port `8000`.
+
+-Will: I have no idea how to do most of this. See "Part_2.ipynb".
